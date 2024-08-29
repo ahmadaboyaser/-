@@ -37,7 +37,7 @@ header {
 
 
 .story h2 {
-    color: #1976D2; /* أزرق متوسط */
+    color: #1E88E5; /* أزرق متوسط */
     margin-top: 0;
 }
 
@@ -47,7 +47,7 @@ header {
     text-align: center;
 }
 .quotes h2 {
-    color: #455A64; /* أزرق رمادي داكن */
+    color: #1E88E5; /* أزرق متوسط */
 }
 .quotes blockquote {
     font-size: 1.2em;
