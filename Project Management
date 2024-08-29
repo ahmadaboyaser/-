@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>نصائح للإرشاد النفسي</title>
-    <!-- رابط إلى Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <!-- رابط إلى ملف CSS مخصص -->
+    <title>Belal alsaeed</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"> 
     <style>
         body {
             background-color: #f8f9fa;
@@ -39,9 +37,9 @@
     </style>
 </head>
 <body>
-    <!-- شريط التنقل -->
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">الارشاد النفسي</a>
+        <a class="navbar-brand" href="#">فرص المعلوماتية</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="تبديل التنقل">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -51,7 +49,7 @@
                     <a class="nav-link" href="#">الرئيسية <span class="sr-only">(الحالية)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">النصائح</a>
+                    <a class="nav-link" href="#">نصائح</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">اتصل بنا</a>
@@ -60,12 +58,12 @@
         </div>
     </nav>
 
-    <!-- محتوى الصفحة -->
+    
     <div class="container mt-5">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="mb-4">نصائح للإرشاد النفسي</h1>
-                <p class="lead">إليك بعض النصائح المفيدة لتحسين صحتك النفسية:</p>
+                <h1 class="mb-4">نصائح للحصول على وظيفة في مجال المعلوماتية</h1>
+                <p class="lead">إليك بعض النصائح المفيدة لتحسين فرصك في الحصول على وظيفة في مجال المعلوماتية:</p>
             </div>
         </div>
         <div class="row">
@@ -73,8 +71,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">1. مارس الرياضة بانتظام</h5>
-                        <p class="card-text">التمارين الرياضية تساعد في تقليل التوتر وتحسين المزاج العام.</p>
+                        <h5 class="card-title">1. تعلم المهارات التقنية الأساسية</h5>
+                        <p class="card-text">تأكد من إتقان المهارات الأساسية في البرمجة، قواعد البيانات، وأنظمة التشغيل.</p>
                     </div>
                 </div>
             </div>
@@ -82,8 +80,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">2. احصل على قسط كافٍ من النوم</h5>
-                        <p class="card-text">النوم الجيد مهم لصحة العقل والجسم، حاول النوم 7-8 ساعات يومياً.</p>
+                        <h5 class="card-title">2. احصل على شهادات معترف بها</h5>
+                        <p class="card-text">حصل على شهادات مهنية مثل CompTIA، Cisco، أو شهادات مطورين أخرى لتعزيز سيرتك الذاتية.</p>
                     </div>
                 </div>
             </div>
@@ -91,8 +89,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">3. تواصل مع الآخرين</h5>
-                        <p class="card-text">التواصل الاجتماعي يدعم الصحة النفسية ويساعد في بناء علاقات قوية.</p>
+                        <h5 class="card-title">3. بناء محفظة مشاريع</h5>
+                        <p class="card-text">اعمل على مشاريع شخصية أو تطوعية لعرض مهاراتك والتجارب العملية في محفظة أعمالك.</p>
                     </div>
                 </div>
             </div>
@@ -100,8 +98,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">4. احرص على تناول غذاء صحي</h5>
-                        <p class="card-text">تناول غذاء متوازن يعزز صحتك النفسية والجسدية، ويفضل أن يتضمن الكثير من الفواكه والخضروات.</p>
+                        <h5 class="card-title">4. احضر مؤتمرات وندوات تقنية</h5>
+                        <p class="card-text">تواصل مع محترفين آخرين في المجال وابقَ على اطلاع بأحدث التطورات التقنية.</p>
                     </div>
                 </div>
             </div>
@@ -109,8 +107,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">5. مارس تقنيات الاسترخاء</h5>
-                        <p class="card-text">التأمل، واليوغا، والتنفس العميق يمكن أن تساعد في تقليل مستويات القلق وتحسين التركيز.</p>
+                        <h5 class="card-title">5. قم بتحديث سيرتك الذاتية بانتظام</h5>
+                        <p class="card-text">تأكد من تحديث سيرتك الذاتية لتعكس أحدث مهاراتك وتجاربك العملية.</p>
                     </div>
                 </div>
             </div>
@@ -118,8 +116,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">6. ضع أهدافاً واقعية</h5>
-                        <p class="card-text">حدد أهدافاً واقعية وقابلة للتحقيق لمساعدتك في الشعور بالإنجاز والتحفيز.</p>
+                        <h5 class="card-title">6. استخدم منصات التوظيف على الإنترنت</h5>
+                        <p class="card-text">ابحث عن وظائف على منصات مثل LinkedIn وIndeed، وقدم طلباتك بشكل فعال.</p>
                     </div>
                 </div>
             </div>
@@ -127,8 +125,8 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">7. ابحث عن هوايات ممتعة</h5>
-                        <p class="card-text">المشاركة في أنشطة تحبها يمكن أن تزيد من سعادتك ورفاهيتك العامة.</p>
+                        <h5 class="card-title">7. تطوير مهارات التواصل</h5>
+                        <p class="card-text">تعلم كيفية تقديم نفسك بشكل فعال في مقابلات العمل وكتابة رسائل تغطية قوية.</p>
                     </div>
                 </div>
             </div>
@@ -136,18 +134,16 @@
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">8. تعلم كيفية إدارة الوقت</h5>
-                        <p class="card-text">تنظيم وقتك بشكل فعال يمكن أن يقلل من التوتر ويساعدك على تحقيق توازن بين العمل والحياة.</p>
+                        <h5 class="card-title">8. ابحث عن فرص تدريبية أو تطوعية</h5>
+                        <p class="card-text">التدريب أو العمل التطوعي يمكن أن يوفر لك خبرة عملية قيمة في المجال ويعزز سيرتك الذاتية.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
