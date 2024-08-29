@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    direction: rtl;
+    background-color: #E3F2FD; /*تغيير خلفية الصفحة: أزرق فاتح جداً */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2196F3; /* أزرق */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.intro {
+    padding: 20px;
+    background-color: #BBDEFB; /* أزرق فاتح */
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.stories {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.story {
+    background-color: #E1F5FE; /* أزرق فاتح جدًا */
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.story h2 {
+    color: #1E88E5; /* أزرق متوسط */
+    margin-top: 0;
+}
+
+.quotes {
+    background-color: #ECEFF1; /* رمادي فاتح */
+    padding: 20px;
+    text-align: center;
+}
+.quotes h2 {
+    color: #1E88E5; /* أزرق متوسط */
+}
+.quotes blockquote {
+    font-size: 1.2em;
+    color: #555;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+footer {
+    background-color: #37474F; /* أزرق رمادي داكن */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+footer p {
+    margin: 0;
+}
