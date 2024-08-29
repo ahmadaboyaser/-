@@ -29,11 +29,12 @@ header {
 }
 
 .story {
-    background-color: #FFFFFF; /* أبيض */
+    background-color: #E1F5FE; /* أزرق فاتح جدًا */
     border-radius: 5px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 
 .story h2 {
     color: #1976D2; /* أزرق متوسط */
