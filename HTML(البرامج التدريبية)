@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>البرامج التدريبية</title>
+    <link rel="stylesheet" href="البرامج التدريبية.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>البرامج التدريبية</h1>
+        <p>نعمل يوميًا على إضافة دروس ومقالات وكتب ومشاريع جديدة لمواكبة كل ما هو جديد حتى نوفر لكم كل ما تحتاجونه</p>
+        
+        <div class="grid">
+            <div class="card">
+                <h2>HTML</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo">
+                <p>لغة تستخدم في إنشاء صفحات الويب والتحديد لتعيين العناصر التي سيتم وضعها في صفحات الويب</p>
+            </div>
+            
+            <div class="card">
+                <h2>CSS</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo">
+                <p>لغة تستخدم في تصميم صفحات الويب من خلالها يمكن إضافة ألوان، ظلال، مؤثرات</p>
+            </div>
+            
+            <div class="card">
+                <h2>React</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo">
+                <p>من أشهر المكتبات المبنية بلغة الجافا سكريبت والتي تستخدم في بناء واجهة المستخدم</p>
+            </div>
+            
+            <div class="card">
+                <h2>Javascript</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo">
+                <p>لغة برمجة تستخدم في تطوير المواقع، تطوير تطبيقات الهاتف، تطوير تطبيقات الحاسوب</p>
+            </div>
+            
+            <div class="card">
+                <h2>قواعد بيانات</h2>
+                <img src="database.jpg" alt="Database Logo">
+                <p>سلسلة من المفاهيم والدروس الشاملة لتعلم قواعد البيانات من تصميم واستعلامات</p>
+            </div>
+            
+            <div class="card">
+                <h2>أساسيات البرمجة</h2>
+                <img src="learn.jpg" alt="Programming Basics">
+                <p>لتعليم المبتدئين التفكير البرمجي والتحليل المنطقي وتبسيط كل ما هو معقد</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="javascript.js"></script>
+</body>
+</html>
