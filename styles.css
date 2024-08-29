@@ -42,15 +42,13 @@ header {
 }
 
 .quotes {
-    background-color: #C8E6C9; /* أخضر فاتح */
+    background-color: #ECEFF1; /* رمادي فاتح */
     padding: 20px;
     text-align: center;
 }
-
 .quotes h2 {
-    color: #388E3C; /* أخضر داكن */
+    color: #455A64; /* أزرق رمادي داكن */
 }
-
 .quotes blockquote {
     font-size: 1.2em;
     color: #555;
@@ -59,13 +57,12 @@ header {
 }
 
 footer {
-    background-color: #1B5E20; /* أخضر داكن */
+    background-color: #37474F; /* أزرق رمادي داكن */
     color: white;
     text-align: center;
     padding: 20px;
     margin-top: 20px;
 }
-
 footer p {
     margin: 0;
 }
