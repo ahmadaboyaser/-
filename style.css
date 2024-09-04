@@ -39,11 +39,11 @@
     }
     .a{
         text-decoration: none;
-        color:firebrick;
+        color:rgb(54, 181, 190);
         font-family: 'Times New Roman', Times, serif;
         font-size: 16px;
         font-weight: bold;
-        border: rgb(40, 0, 119) 1px solid;
+        border: rgb(196, 38, 59) 1px solid;
         padding: 1% 2.5% 1% 2.5%;
         border-radius: 7px 7px 7px 7px;
         background-color: rgb(220, 223, 245);
